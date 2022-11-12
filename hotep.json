@@ -1,0 +1,45 @@
+{"ScriptId":951139840.0,"Name":"Lotus Peddler","Parts":[{"PartId":966093952.0,"StepType":10.0,"A":"Q_WELCOME","B":"3||>0","C":"","V":30.0,"N":"Lasho's Task not Finished -> peddler without goods","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":586352128.0,"StepType":0.0,"A":"((As you move the heavy curtains that would hide the entrance to this room away, your senses would immediately get overwhelemed. There was a thick heavy scent in the air, hot and humid it would creep up your nose, carrying the fragrance of the incense being burned around. Right in the middle of the room, behind a large round, low table, sits a man, smiling eerily at you.))
+
+Welcome to my den, friend. Come sit. Enjoy the pleasures of life!
+
+((With the way he speaks, his voice slow and his eyes wide open, it was clear he was under some kind of influence. Perhaps you should leave him alone for the time being.))","B":"...","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":643849024.0,"StepType":12.0,"A":"","B":"","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":385113056.0,"StepType":10.0,"A":"Q_WELCOME","B":"3||>2","C":"","V":31.0,"N":"Lasho's Second Task done -> prep Task 3","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":453718688.0,"StepType":0.0,"A":"((As you move the heavy curtains that would hide the entrance to this room away, your senses would immediately get overwhelemed. There was a thick heavy scent in the air, hot and humid it would creep up your nose, carrying the fragrance of the incense being burned around. Right in the middle of the room, behind a large round, low table, sits a man, smiling eerily at you.))
+
+Welcome to my den, friend. Come sit. Enjoy the pleasures of life!
+
+((With the way he speaks, his voice slow and his eyes wide open, it was clear he was under some kind of influence. Perhaps you should leave him alone...but then you were here for a task.))","B":"Lasho sent me, I was supposed to do something for you?","C":"Just Leave","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":608325440.0,"StepType":0.0,"A":"Ohhhh. Lasho sent you.
+
+((He falls silent for a moment, before deciding to take a deep puff from the smoking pipe infront of him))
+
+Lasho sent you!","B":"He did. He told me to acquire something for you?","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":548539712.0,"StepType":0.0,"A":"((The man just starts to laugh manically))
+
+So he has not forgotten! Yes! Yes yes yes, acquire something for me. Yes! You should do that!","B":"...and what do you need?","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":98361160.0,"StepType":0.0,"A":"((The man stares at you for a few moments in disbelief))
+
+You don't know that? That is so typical for you lesser beings...Lotus! I require Lotus! The last slave I sent to gather did never return...I wonder what became of her? 
+
+((He just starts to laugh again, only stopping to take another puff))
+
+Yes. Lotus! Lotus lotus lotus! Why don't you go get me some Lotus? A few black ones, a few red ones, a few purple ones...oh why don't you just get me all of the lotus colors you can find? 
+
+((He raises his arms, some ash falling out of the pipie))
+ALL THE COLORS!","B":"I...guess I will","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":997802688.0,"StepType":0.0,"A":"Oh but do be careful! Some of these plants are rather...dangerous! Ha ha ha! Would not want you to not return. Would be so tedious to get a new slave...
+
+((Hint: Gather 50 black lotus powder, 50 yellow lotus powder, 50 golden lotus powder, 50 crimson lotus powder, 50 purple lotus powder and 5 grey lotus powder and bring them to Hotep.))","B":"(You just take your leave)","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":196478160.0,"StepType":1.0,"A":"Q_WELCOME","B":"","C":"","V":40.0,"N":"Welcome -> accepted task","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":838740160.0,"StepType":1.0,"A":"Q_HOTEP","B":"","C":"","V":10.0,"N":"Lotus -> Start tasl","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":489761056.0,"StepType":0.0,"A":"Yes yes. Go. Begone! Come back! With Lotus!","B":"...","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":425580608.0,"StepType":12.0,"A":"","B":"","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":863002432.0,"StepType":10.0,"A":"Q_HOTEP","B":"3||>2","C":"","V":10.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":110415968.0,"StepType":0.0,"A":"Have you come back with my Lotus?","B":"I have","C":"Nevermind","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":480574976.0,"StepType":6.0,"A":"You do not have the right items with you at the moment. Come back with:
+- 50 Purple Lotus Powder
+- 50 Black Lotus Powder
+- 5 Grey Lotus Powder
+- 50 Yellow Lotus Powder
+- 50 Golden Lotus Powder
+- 50 Crimso Lotus Powder
+You can find these items throughout the Exiled Lands. If you are uncertain where to find them, consider asking another character!","B":"11084||<50.0||>11087||<50.0||>11092||<5.0||>11122||<50.0||>11123||<50.0||>11125||<50.0","C":"Ok","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":601153600.0,"StepType":1.0,"A":"Q_HOTEP","B":"","C":"","V":20.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":788048896.0,"StepType":1.0,"A":"Q_WELCOME","B":"","C":"","V":41.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":330271296.0,"StepType":0.0,"A":"Splendid, splendid. Oh how wonderful!
+
+((The weird man raises his arms in joy, his eyes still oddly focused on you))
+
+Yes yes that will do so nice. So nice nice nice. Ahhh!
+
+((He quickly stashes the Lotus you brought him away behind him))
+
+Consider your task done! Come by another time? I might have Lotus to sell to you! For a fair price!
+
+((He laughs maniacally))
+
+No go back to Lasho!","B":"But I just...nevermind","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":482314528.0,"StepType":12.0,"A":"","B":"","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":137302768.0,"StepType":10.0,"A":"Q_HOTEP","B":"3||>2","C":"","V":20.0,"N":"quest finished, open merchant","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":113406776.0,"StepType":27.0,"A":"","B":"","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":154820400.0,"StepType":12.0,"A":"","B":"","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}}]}
