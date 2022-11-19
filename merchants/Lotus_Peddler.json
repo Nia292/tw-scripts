@@ -1,0 +1,64 @@
+{
+  "ID": 511001952.0,
+  "Name": "Lotus Peddler 3.0",
+  "Tags": "",
+  "RequiresTag": false,
+  "Lines": [
+    {
+      "ID": 310434272.0,
+      "ItemID": "11084",
+      "Count": 10.0,
+      "Price": 200.0,
+      "Buy": false,
+      "Name": "Purple Lotus Powder"
+    },
+    {
+      "ID": 230262160.0,
+      "ItemID": "11087",
+      "Count": 10.0,
+      "Price": 200.0,
+      "Buy": false,
+      "Name": "Black Lotus Powder"
+    },
+    {
+      "ID": 841853056.0,
+      "ItemID": "11092",
+      "Count": 1.0,
+      "Price": 200.0,
+      "Buy": false,
+      "Name": "Grey Lotus Powder"
+    },
+    {
+      "ID": 186162896.0,
+      "ItemID": "11122",
+      "Count": 10.0,
+      "Price": 100.0,
+      "Buy": false,
+      "Name": "Yellow Lotus Powder"
+    },
+    {
+      "ID": 637501120.0,
+      "ItemID": "11123",
+      "Count": 10.0,
+      "Price": 100.0,
+      "Buy": false,
+      "Name": "Golden Lotus Powder"
+    },
+    {
+      "ID": 676534272.0,
+      "ItemID": "11125",
+      "Count": 10.0,
+      "Price": 100.0,
+      "Buy": false,
+      "Name": "Crimson Lotus Powder"
+    },
+    {
+      "ID": 87313456.0,
+      "ItemID": "11121",
+      "Count": 10.0,
+      "Price": 100.0,
+      "Buy": false,
+      "Name": "Frost Lotus Powder"
+    }
+  ]
+}

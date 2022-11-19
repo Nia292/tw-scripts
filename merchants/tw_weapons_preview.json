@@ -1,0 +1,56 @@
+{
+  "ID": 189916928.0,
+  "Name": "TW Weapon Preview",
+  "Tags": "",
+  "RequiresTag": false,
+  "Lines": [
+    {
+      "ID": 420266272.0,
+      "ItemID": "298454012",
+      "Count": 1.0,
+      "Price": 9990000.0,
+      "Buy": false,
+      "Name": "Atlantean Sword"
+    },
+    {
+      "ID": 155237232.0,
+      "ItemID": "298454075",
+      "Count": 1.0,
+      "Price": 9990000.0,
+      "Buy": false,
+      "Name": "Atlantean Greatsword"
+    },
+    {
+      "ID": 155628528.0,
+      "ItemID": "189256",
+      "Count": 1.0,
+      "Price": 9990000.0,
+      "Buy": false,
+      "Name": "Stygian Soldier Khopesh"
+    },
+    {
+      "ID": 756232896.0,
+      "ItemID": "298454054",
+      "Count": 1.0,
+      "Price": 9990000.0,
+      "Buy": false,
+      "Name": "Turan Assasin Daggers"
+    },
+    {
+      "ID": 621648832.0,
+      "ItemID": "298454044",
+      "Count": 1.0,
+      "Price": 9990000.0,
+      "Buy": false,
+      "Name": "Turan Soldier Spear"
+    },
+    {
+      "ID": 809381376.0,
+      "ItemID": "298454024",
+      "Count": 1.0,
+      "Price": 9990000.0,
+      "Buy": false,
+      "Name": "Atlantean Bow"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "ID": 448321152.0,
+  "Name": "Tool Peddler",
+  "Tags": "",
+  "RequiresTag": false,
+  "Lines": [
+    {
+      "ID": 635074368.0,
+      "ItemID": "51014",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Hardened Steel Hatchet"
+    },
+    {
+      "ID": 122794800.0,
+      "ItemID": "51311",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Hardened Steel Skinning Knife"
+    },
+    {
+      "ID": 883309888.0,
+      "ItemID": "51041",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Hardened Steel Sickle"
+    },
+    {
+      "ID": 710364288.0,
+      "ItemID": "51022",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Hardened Steel Pick"
+    },
+    {
+      "ID": 165648192.0,
+      "ItemID": "41029",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Hardened Steel Cleaver"
+    },
+    {
+      "ID": 835978880.0,
+      "ItemID": "41058",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Advanced Tool Upgrade Kit"
+    },
+    {
+      "ID": 673256448.0,
+      "ItemID": "41066",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Advanced Reinforcement Kit"
+    }
+  ]
+}

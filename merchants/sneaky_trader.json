@@ -1,0 +1,88 @@
+{
+  "ID": 670979968.0,
+  "Name": "Sneaky trader",
+  "Tags": "",
+  "RequiresTag": false,
+  "Lines": [
+    {
+      "ID": 236335344.0,
+      "ItemID": "1000465",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Venetian Mask"
+    },
+    {
+      "ID": 721488064.0,
+      "ItemID": "1000466",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Venetian Mask (Attached)"
+    },
+    {
+      "ID": 279854752.0,
+      "ItemID": "1000462",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Pierrot Mask"
+    },
+    {
+      "ID": 421491136.0,
+      "ItemID": "1000464",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Pierrot Mask (Attached)"
+    },
+    {
+      "ID": 153782768.0,
+      "ItemID": "1000461",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Fool Mask"
+    },
+    {
+      "ID": 515579712.0,
+      "ItemID": "1000463",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Fool Mask (Attached)"
+    },
+    {
+      "ID": 36011840.0,
+      "ItemID": "1000318",
+      "Count": 1.0,
+      "Price": 2000.0,
+      "Buy": false,
+      "Name": "Leather Quiver (Attached)"
+    },
+    {
+      "ID": 694723392.0,
+      "ItemID": "1000705",
+      "Count": 1.0,
+      "Price": 2000.0,
+      "Buy": false,
+      "Name": "Thief Mask (Attached)"
+    },
+    {
+      "ID": 567918976.0,
+      "ItemID": "1000701",
+      "Count": 1.0,
+      "Price": 2500.0,
+      "Buy": false,
+      "Name": "Hood (Attached)"
+    },
+    {
+      "ID": 466963712.0,
+      "ItemID": "1000704",
+      "Count": 1.0,
+      "Price": 30000.0,
+      "Buy": false,
+      "Name": "Great Fanged Emperor Mask (Attached)"
+    }
+  ]
+}

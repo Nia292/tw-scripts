@@ -1,0 +1,112 @@
+{
+  "ID": 626545024.0,
+  "Name": "Gem trader",
+  "Tags": "",
+  "RequiresTag": false,
+  "Lines": [
+    {
+      "ID": 831141120.0,
+      "ItemID": "298454431",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Eldritch Gem of Manic Haze"
+    },
+    {
+      "ID": 453779712.0,
+      "ItemID": "298454430",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Eldritch Gem of Burden"
+    },
+    {
+      "ID": 555284288.0,
+      "ItemID": "298454429",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Divine Gem of Silence Falls"
+    },
+    {
+      "ID": 89449752.0,
+      "ItemID": "298454446",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Divine Gem of Harmony"
+    },
+    {
+      "ID": 623096384.0,
+      "ItemID": "298454428",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Occult Gem of Black Mist "
+    },
+    {
+      "ID": 155430768.0,
+      "ItemID": "298454426",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Blessed Gem of Burden"
+    },
+    {
+      "ID": 995666368.0,
+      "ItemID": "298454432",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Blessed Gem of Precision"
+    },
+    {
+      "ID": 932798272.0,
+      "ItemID": "298454440",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Chaos Gem of Might"
+    },
+    {
+      "ID": 46388136.0,
+      "ItemID": "298454551",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Onslaught Gem of Might"
+    },
+    {
+      "ID": 365459136.0,
+      "ItemID": "298454654",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Onslaught Gem of Health"
+    },
+    {
+      "ID": 531418816.0,
+      "ItemID": "298454455",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Jötun Gem of Chilled Breath"
+    },
+    {
+      "ID": 62196724.0,
+      "ItemID": "298454453",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Jötun Gem of Nautrality"
+    },
+    {
+      "ID": 669667648.0,
+      "ItemID": "298454454",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Xotli Gem of Eternal Flames"
+    }
+  ]
+}

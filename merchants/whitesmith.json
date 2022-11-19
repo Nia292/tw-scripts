@@ -1,0 +1,64 @@
+{
+  "ID": 566102912.0,
+  "Name": "Whitesmith",
+  "Tags": "",
+  "RequiresTag": false,
+  "Lines": [
+    {
+      "ID": 572515712.0,
+      "ItemID": "51621",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Steel Heater Shield"
+    },
+    {
+      "ID": 242479056.0,
+      "ItemID": "51831",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Longsword"
+    },
+    {
+      "ID": 490496320.0,
+      "ItemID": "51047",
+      "Count": 1.0,
+      "Price": 2500.0,
+      "Buy": false,
+      "Name": "Two-Handed Steel Sword"
+    },
+    {
+      "ID": 528558432.0,
+      "ItemID": "51209",
+      "Count": 1.0,
+      "Price": 2500.0,
+      "Buy": false,
+      "Name": "Steel Spear"
+    },
+    {
+      "ID": 342069024.0,
+      "ItemID": "51851",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Cimmerian Battle-axe"
+    },
+    {
+      "ID": 608464256.0,
+      "ItemID": "51305",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Steel Mace"
+    },
+    {
+      "ID": 853181440.0,
+      "ItemID": "51154",
+      "Count": 1.0,
+      "Price": 2500.0,
+      "Buy": false,
+      "Name": "Steel Warhammer"
+    }
+  ]
+}

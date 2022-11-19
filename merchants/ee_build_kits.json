@@ -1,0 +1,120 @@
+{
+  "ID": 515030400.0,
+  "Name": "EE Build Kits",
+  "Tags": "",
+  "RequiresTag": false,
+  "Lines": [
+    {
+      "ID": 951292480.0,
+      "ItemID": "1001812",
+      "Count": 10.0,
+      "Price": 300.0,
+      "Buy": false,
+      "Name": "Stygian Foundation"
+    },
+    {
+      "ID": 575090752.0,
+      "ItemID": "1001813",
+      "Count": 19.0,
+      "Price": 200.0,
+      "Buy": false,
+      "Name": "Stygian Wall"
+    },
+    {
+      "ID": 349192800.0,
+      "ItemID": "1001816",
+      "Count": 10.0,
+      "Price": 200.0,
+      "Buy": false,
+      "Name": "Stygian Ceiling"
+    },
+    {
+      "ID": 667317760.0,
+      "ItemID": "1001818",
+      "Count": 1.0,
+      "Price": 100.0,
+      "Buy": false,
+      "Name": "Stygian Doorframe"
+    },
+    {
+      "ID": 106479080.0,
+      "ItemID": "1001824",
+      "Count": 1.0,
+      "Price": 100.0,
+      "Buy": false,
+      "Name": "Stygian Door"
+    },
+    {
+      "ID": 796807744.0,
+      "ItemID": "1001822",
+      "Count": 1.0,
+      "Price": 200.0,
+      "Buy": false,
+      "Name": "White Marble Wall [EE]"
+    },
+    {
+      "ID": 388348032.0,
+      "ItemID": "1001800",
+      "Count": 1.0,
+      "Price": 200.0,
+      "Buy": false,
+      "Name": "Brick Wall [EE]"
+    },
+    {
+      "ID": 25757622.0,
+      "ItemID": "1001800",
+      "Count": 10.0,
+      "Price": 1800.0,
+      "Buy": false,
+      "Name": "Brick Wall [EE]"
+    },
+    {
+      "ID": 6103702.0,
+      "ItemID": "1000738",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Bone Wall T2"
+    },
+    {
+      "ID": 56764428.0,
+      "ItemID": "1000898",
+      "Count": 1.0,
+      "Price": 2500.0,
+      "Buy": false,
+      "Name": "Bone Gateway T3"
+    },
+    {
+      "ID": 89419232.0,
+      "ItemID": "1000899",
+      "Count": 1.0,
+      "Price": 2500.0,
+      "Buy": false,
+      "Name": "Bone Gate T3"
+    },
+    {
+      "ID": 294534144.0,
+      "ItemID": "1001783",
+      "Count": 1.0,
+      "Price": 2000.0,
+      "Buy": false,
+      "Name": "Rock Entrance Gateway"
+    },
+    {
+      "ID": 551988288.0,
+      "ItemID": "1001784",
+      "Count": 1.0,
+      "Price": 2900.0,
+      "Buy": false,
+      "Name": "Rock Entrance Gate [Deco]"
+    },
+    {
+      "ID": 69734800.0,
+      "ItemID": "1001793",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Sarcophagus"
+    }
+  ]
+}

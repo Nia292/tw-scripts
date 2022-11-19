@@ -1,0 +1,112 @@
+{
+  "ID": 346049376.0,
+  "Name": "Food and drinks",
+  "Tags": "",
+  "RequiresTag": false,
+  "Lines": [
+    {
+      "ID": 824243904.0,
+      "ItemID": "18264",
+      "Count": 100.0,
+      "Price": 100.0,
+      "Buy": false,
+      "Name": "Spice"
+    },
+    {
+      "ID": 166631056.0,
+      "ItemID": "11025",
+      "Count": 10.0,
+      "Price": 100.0,
+      "Buy": false,
+      "Name": "Rare Spices"
+    },
+    {
+      "ID": 119510488.0,
+      "ItemID": "92174",
+      "Count": 10.0,
+      "Price": 100.0,
+      "Buy": false,
+      "Name": "Rare Spice"
+    },
+    {
+      "ID": 986816000.0,
+      "ItemID": "18002",
+      "Count": 100.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Honey"
+    },
+    {
+      "ID": 140690320.0,
+      "ItemID": "18076",
+      "Count": 10.0,
+      "Price": 100.0,
+      "Buy": false,
+      "Name": "Mead"
+    },
+    {
+      "ID": 676015488.0,
+      "ItemID": "18072",
+      "Count": 10.0,
+      "Price": 100.0,
+      "Buy": false,
+      "Name": "Ale"
+    },
+    {
+      "ID": 510971424.0,
+      "ItemID": "18065",
+      "Count": 10.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Desert Rum"
+    },
+    {
+      "ID": 528611136.0,
+      "ItemID": "18064",
+      "Count": 10.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Desert Grog"
+    },
+    {
+      "ID": 974456000.0,
+      "ItemID": "18079",
+      "Count": 10.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Honeyed Wine"
+    },
+    {
+      "ID": 770958592.0,
+      "ItemID": "18233",
+      "Count": 10.0,
+      "Price": 100.0,
+      "Buy": false,
+      "Name": "Meat Strips"
+    },
+    {
+      "ID": 930143104.0,
+      "ItemID": "18217",
+      "Count": 20.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Spiced Haunch"
+    },
+    {
+      "ID": 992370368.0,
+      "ItemID": "18248",
+      "Count": 20.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Spiced Slivers"
+    },
+    {
+      "ID": 311166720.0,
+      "ItemID": "18228",
+      "Count": 20.0,
+      "Price": 200.0,
+      "Buy": false,
+      "Name": "Herbal Tea"
+    }
+  ]
+}

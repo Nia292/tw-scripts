@@ -1,0 +1,48 @@
+{
+  "ID": 887278976.0,
+  "Name": "Hafnir the Chain",
+  "Tags": "",
+  "RequiresTag": false,
+  "Lines": [
+    {
+      "ID": 677289280.0,
+      "ItemID": "298454258",
+      "Count": 10.0,
+      "Price": 3500.0,
+      "Buy": false,
+      "Name": "Forged Chain"
+    },
+    {
+      "ID": 258930240.0,
+      "ItemID": "51964",
+      "Count": 1.0,
+      "Price": 300.0,
+      "Buy": false,
+      "Name": "Chain Bindings"
+    },
+    {
+      "ID": 140401504.0,
+      "ItemID": "41037",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Legendary Weapon Repair Kit"
+    },
+    {
+      "ID": 101266696.0,
+      "ItemID": "298454239",
+      "Count": 1.0,
+      "Price": 10000.0,
+      "Buy": false,
+      "Name": "Acheronian Slave Collar - Beast of Burden"
+    },
+    {
+      "ID": 594962368.0,
+      "ItemID": "80553",
+      "Count": 1.0,
+      "Price": 2500.0,
+      "Buy": false,
+      "Name": "Decorative Grindstone"
+    }
+  ]
+}

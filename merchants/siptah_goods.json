@@ -1,316 +1,360 @@
 {
-  "ID": 848958395,
+  "ID": 848958400.0,
+  "Name": "Siptah Goods",
+  "Tags": "",
+  "RequiresTag": false,
   "Lines": [
     {
+      "ID": 475717216.0,
       "ItemID": "53552",
-      "ID": 475717227,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Accursed Warpaint"
     },
     {
+      "ID": 743813184.0,
       "ItemID": "53553",
-      "ID": 743813166,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Black Corsair Warpaint"
     },
     {
+      "ID": 615917696.0,
       "ItemID": "53554",
-      "ID": 615917689,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Stygian Invader Warpaint"
     },
     {
+      "ID": 425009920.0,
       "ItemID": "53555",
-      "ID": 425009919,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Jhil Warpaint"
     },
     {
+      "ID": 320706432.0,
       "ItemID": "53556",
-      "ID": 320706419,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Bat-Demon Warpaint"
     },
     {
+      "ID": 128190816.0,
       "ItemID": "53557",
-      "ID": 128190818,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Fiends Warpaint"
     },
     {
+      "ID": 548244096.0,
       "ItemID": "53558",
-      "ID": 548244071,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Goblinoid Warpaint"
     },
     {
+      "ID": 829278144.0,
       "ItemID": "53559",
-      "ID": 829278129,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Gremlin Warpaint"
     },
     {
+      "ID": 804933504.0,
       "ItemID": "53560",
-      "ID": 804933503,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Harpy Warpaint"
     },
     {
+      "ID": 530419968.0,
       "ItemID": "53561",
-      "ID": 530419970,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Demon Spider Warpaint"
     },
     {
+      "ID": 811057152.0,
       "ItemID": "53562",
-      "ID": 811057142,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Outsiders Warpaint"
     },
     {
+      "ID": 124127520.0,
       "ItemID": "53563",
-      "ID": 124127524,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Serpent Warpaint"
     },
     {
+      "ID": 620110912.0,
       "ItemID": "53564",
-      "ID": 620110917,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Snakeman Warpaint"
     },
     {
+      "ID": 715363712.0,
       "ItemID": "53565",
-      "ID": 715363730,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Drowned Warpaint"
     },
     {
+      "ID": 354507360.0,
       "ItemID": "53566",
-      "ID": 354507370,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Twice-Drowned Warpaint"
     },
     {
+      "ID": 326459488.0,
       "ItemID": "53567",
-      "ID": 326459490,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Wolfmen Warpaint"
     },
     {
+      "ID": 602436416.0,
       "ItemID": "53568",
-      "ID": 602436420,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Wolf Brothers Warpaint"
     },
     {
+      "ID": 251699520.0,
       "ItemID": "53569",
-      "ID": 251699528,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "TchoTcho Warpaint"
     },
     {
+      "ID": 751126336.0,
       "ItemID": "53570",
-      "ID": 751126313,
-      "Price": 5000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Thunnha Warpaint"
     },
     {
+      "ID": 372374400.0,
       "ItemID": "1544",
-      "ID": 372374412,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Bat Claw Trophy"
     },
     {
+      "ID": 128404480.0,
       "ItemID": "1545",
-      "ID": 128404479,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Bird Wing Trophy"
     },
     {
+      "ID": 785748800.0,
       "ItemID": "1546",
-      "ID": 785748817,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Drowned Scale Trophy"
     },
     {
+      "ID": 124947440.0,
       "ItemID": "1547",
-      "ID": 124947436,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Fiend Bone Trophy"
     },
     {
+      "ID": 414676160.0,
       "ItemID": "1548",
-      "ID": 414676162,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Goblin Horn Trophy"
     },
     {
+      "ID": 704668608.0,
       "ItemID": "1549",
-      "ID": 704668582,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Harpy Feather Trophy"
     },
     {
+      "ID": 465856448.0,
       "ItemID": "1551",
-      "ID": 465856439,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Demon-Spider Chunk Trophy"
     },
     {
+      "ID": 820447872.0,
       "ItemID": "1553",
-      "ID": 820447857,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Bat Statue"
     },
     {
+      "ID": 267528496.0,
       "ItemID": "1554",
-      "ID": 267528500,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Bird Statue"
     },
     {
+      "ID": 418789344.0,
       "ItemID": "1555",
-      "ID": 418789358,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Drowned Statue"
     },
     {
+      "ID": 183307296.0,
       "ItemID": "1556",
-      "ID": 183307293,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Fiend Statue"
     },
     {
+      "ID": 471663392.0,
       "ItemID": "1557",
-      "ID": 471663383,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Goblin Statue"
     },
     {
+      "ID": 866497664.0,
       "ItemID": "1558",
-      "ID": 866497668,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Harpy Statue"
     },
     {
+      "ID": 749124480.0,
       "ItemID": "1560",
-      "ID": 749124459,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Serpent-man Statue"
     },
     {
+      "ID": 116860128.0,
       "ItemID": "1561",
-      "ID": 116860127,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Demon-Spider Statue"
     },
     {
+      "ID": 573063040.0,
       "ItemID": "1562",
-      "ID": 573063027,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Wolf-man Statue"
     },
     {
+      "ID": 840157376.0,
       "ItemID": "1563",
-      "ID": 840157365,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Bat Insignia"
     },
     {
+      "ID": 503681760.0,
       "ItemID": "1564",
-      "ID": 503681753,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Bird Insignia"
     },
     {
+      "ID": 712693568.0,
       "ItemID": "1565",
-      "ID": 712693563,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Demon-Spider Insignia"
     },
     {
+      "ID": 313639552.0,
       "ItemID": "1566",
-      "ID": 313639545,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Drowned Insignia"
     },
     {
+      "ID": 879990336.0,
       "ItemID": "1567",
-      "ID": 879990336,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Fiend Insignia"
     },
     {
+      "ID": 269881408.0,
       "ItemID": "1568",
-      "ID": 269881395,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Goblin Insignia"
     },
     {
+      "ID": 141918736.0,
       "ItemID": "1569",
-      "ID": 141918731,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Harpy Insignia"
     },
     {
+      "ID": 243886384.0,
       "ItemID": "1570",
-      "ID": 243886383,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Serpent-man Insignia"
     },
     {
+      "ID": 113201824.0,
       "ItemID": "1571",
-      "ID": 113201823,
-      "Price": 1000,
-      "Count": 1,
-      "Buy": false
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Devolved Wolf-man Insignia"
     }
-  ],
-  "Name": "Siptah Goods",
-  "RequiresTag": false,
-  "Tags": ""
+  ]
 }

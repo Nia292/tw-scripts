@@ -1,0 +1,352 @@
+{
+  "ID": 238339328.0,
+  "Name": "Carpenter",
+  "Tags": "",
+  "RequiresTag": false,
+  "Lines": [
+    {
+      "ID": 539596480.0,
+      "ItemID": "1000124",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Awning Stall"
+    },
+    {
+      "ID": 676894144.0,
+      "ItemID": "1000050",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "BookShelf"
+    },
+    {
+      "ID": 404430720.0,
+      "ItemID": "1001525",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Carved Wooden Cat"
+    },
+    {
+      "ID": 638865472.0,
+      "ItemID": "1001526",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Carved Wooden Deer"
+    },
+    {
+      "ID": 758852672.0,
+      "ItemID": "1001527",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Carved Wooden Fawn"
+    },
+    {
+      "ID": 347300992.0,
+      "ItemID": "1000723",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Cloth Top Stool"
+    },
+    {
+      "ID": 737596160.0,
+      "ItemID": "1000573",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Coffin [Deco]"
+    },
+    {
+      "ID": 290026560.0,
+      "ItemID": "1000572",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Coffin [Exile]"
+    },
+    {
+      "ID": 418784832.0,
+      "ItemID": "11118",
+      "Count": 1.0,
+      "Price": 10.0,
+      "Buy": false,
+      "Name": "Dagger Handle"
+    },
+    {
+      "ID": 772505728.0,
+      "ItemID": "1001216",
+      "Count": 1.0,
+      "Price": 15000.0,
+      "Buy": false,
+      "Name": "Double Gallows"
+    },
+    {
+      "ID": 889316544.0,
+      "ItemID": "1001398",
+      "Count": 1.0,
+      "Price": 25000.0,
+      "Buy": false,
+      "Name": "Fancy Piano"
+    },
+    {
+      "ID": 547741760.0,
+      "ItemID": "1001399",
+      "Count": 1.0,
+      "Price": 25000.0,
+      "Buy": false,
+      "Name": "Fancy Piano Bench"
+    },
+    {
+      "ID": 354779296.0,
+      "ItemID": "1000713",
+      "Count": 1.0,
+      "Price": 2000.0,
+      "Buy": false,
+      "Name": "Fishing Chair"
+    },
+    {
+      "ID": 830281856.0,
+      "ItemID": "1000459",
+      "Count": 1.0,
+      "Price": 2000.0,
+      "Buy": false,
+      "Name": "Goods Carriage"
+    },
+    {
+      "ID": 468658784.0,
+      "ItemID": "1001617",
+      "Count": 1.0,
+      "Price": 2000.0,
+      "Buy": false,
+      "Name": "Goods Carriage [No Goods]"
+    },
+    {
+      "ID": 822817856.0,
+      "ItemID": "1001385",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Grand Piano"
+    },
+    {
+      "ID": 867315136.0,
+      "ItemID": "1000287",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Hand Cart"
+    },
+    {
+      "ID": 229246688.0,
+      "ItemID": "1001373",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Horse Hitching Post"
+    },
+    {
+      "ID": 369517344.0,
+      "ItemID": "1000175",
+      "Count": 1.0,
+      "Price": 0.0,
+      "Buy": false,
+      "Name": "khitan Chair"
+    },
+    {
+      "ID": 745748032.0,
+      "ItemID": "1000174",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Khitan Writing Desk"
+    },
+    {
+      "ID": 554820480.0,
+      "ItemID": "11115",
+      "Count": 1.0,
+      "Price": 10.0,
+      "Buy": false,
+      "Name": "Long Handle"
+    },
+    {
+      "ID": 750689088.0,
+      "ItemID": "1000480",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Outhouse T1"
+    },
+    {
+      "ID": 714089664.0,
+      "ItemID": "1000121",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Outhouse T2"
+    },
+    {
+      "ID": 369156128.0,
+      "ItemID": "1000112",
+      "Count": 1.0,
+      "Price": 0.0,
+      "Buy": false,
+      "Name": "Outhouse With Compost Box"
+    },
+    {
+      "ID": 386175040.0,
+      "ItemID": "1000123",
+      "Count": 1.0,
+      "Price": 2000.0,
+      "Buy": false,
+      "Name": "Parked Boat"
+    },
+    {
+      "ID": 606296192.0,
+      "ItemID": "1001387",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Piano Bench"
+    },
+    {
+      "ID": 173133984.0,
+      "ItemID": "1001445",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Quadruple-Slot Bow Display Rack"
+    },
+    {
+      "ID": 893546496.0,
+      "ItemID": "1000120",
+      "Count": 1.0,
+      "Price": 300.0,
+      "Buy": false,
+      "Name": "Ragged Bench"
+    },
+    {
+      "ID": 747080128.0,
+      "ItemID": "1001586",
+      "Count": 1.0,
+      "Price": 2000.0,
+      "Buy": false,
+      "Name": "Shemite Bench"
+    },
+    {
+      "ID": 785272192.0,
+      "ItemID": "1001587",
+      "Count": 1.0,
+      "Price": 2000.0,
+      "Buy": false,
+      "Name": "Shemite Chair"
+    },
+    {
+      "ID": 556347904.0,
+      "ItemID": "1001585",
+      "Count": 1.0,
+      "Price": 2000.0,
+      "Buy": false,
+      "Name": "Shemite Lantern [Ceiling]"
+    },
+    {
+      "ID": 209546800.0,
+      "ItemID": "1001588",
+      "Count": 1.0,
+      "Price": 2000.0,
+      "Buy": false,
+      "Name": "Shemite Lantern Small [Ceiling]"
+    },
+    {
+      "ID": 138555520.0,
+      "ItemID": "11119",
+      "Count": 1.0,
+      "Price": 10.0,
+      "Buy": false,
+      "Name": "Spear Handle"
+    },
+    {
+      "ID": 213533568.0,
+      "ItemID": "1000122",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Stack Of Pine Logs"
+    },
+    {
+      "ID": 245893120.0,
+      "ItemID": "11120",
+      "Count": 1.0,
+      "Price": 10.0,
+      "Buy": false,
+      "Name": "Throwing Axe Handle"
+    },
+    {
+      "ID": 453953568.0,
+      "ItemID": "1001447",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Torture Chair"
+    },
+    {
+      "ID": 135892576.0,
+      "ItemID": "1001446",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Torture Wheel [Deco]"
+    },
+    {
+      "ID": 133340896.0,
+      "ItemID": "1000481",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Vertical Hoist Elevator"
+    },
+    {
+      "ID": 771012672.0,
+      "ItemID": "1000172",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Wooden Swing [Exiles]"
+    },
+    {
+      "ID": 745157120.0,
+      "ItemID": "1001374",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Wooden Trough"
+    },
+    {
+      "ID": 171269872.0,
+      "ItemID": "88874417",
+      "Count": 1.0,
+      "Price": 100000.0,
+      "Buy": false,
+      "Name": "Ormen Lange"
+    },
+    {
+      "ID": 918912320.0,
+      "ItemID": "88874416",
+      "Count": 1.0,
+      "Price": 200000.0,
+      "Buy": false,
+      "Name": "Erik's Knerrir"
+    },
+    {
+      "ID": 329172640.0,
+      "ItemID": "88874419",
+      "Count": 1.0,
+      "Price": 300000.0,
+      "Buy": false,
+      "Name": "Aquilonian Navis actuaria"
+    }
+  ]
+}

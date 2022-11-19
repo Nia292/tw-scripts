@@ -1,0 +1,336 @@
+{
+  "ID": 313211456.0,
+  "Name": "Cruel Slaver",
+  "Tags": "",
+  "RequiresTag": false,
+  "Lines": [
+    {
+      "ID": 342905984.0,
+      "ItemID": "1000002",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Thorns of Pain Top"
+    },
+    {
+      "ID": 144291520.0,
+      "ItemID": "1000003",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Thorns of Pain Bottom"
+    },
+    {
+      "ID": 912594944.0,
+      "ItemID": "1000017",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Stygian Vest Just Snake"
+    },
+    {
+      "ID": 615192128.0,
+      "ItemID": "1000018",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Stygian Vest Skimpy No Snake"
+    },
+    {
+      "ID": 208746608.0,
+      "ItemID": "1000016",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Demon Harness"
+    },
+    {
+      "ID": 853663744.0,
+      "ItemID": "298454112",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Spiked Collar"
+    },
+    {
+      "ID": 91189312.0,
+      "ItemID": "1000029",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Iron Collar"
+    },
+    {
+      "ID": 578142656.0,
+      "ItemID": "1000032",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Pillory Of Pleasure [Exiles]"
+    },
+    {
+      "ID": 714926592.0,
+      "ItemID": "1000033",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Pillory of Shame [Thrall]"
+    },
+    {
+      "ID": 987579008.0,
+      "ItemID": "1000499",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Pillory Of Pleasure [Thrall]"
+    },
+    {
+      "ID": 343455328.0,
+      "ItemID": "1000034",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Crucifix [Exile]"
+    },
+    {
+      "ID": 630512448.0,
+      "ItemID": "1000035",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Crucifix [Thrall]"
+    },
+    {
+      "ID": 35187840.0,
+      "ItemID": "1000288",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Crucified (Decretive)"
+    },
+    {
+      "ID": 207586896.0,
+      "ItemID": "1001012",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Crucifix Upside down [Thrall]"
+    },
+    {
+      "ID": 394756928.0,
+      "ItemID": "1001036",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Crucifix [Thrall/Converter]"
+    },
+    {
+      "ID": 55146948.0,
+      "ItemID": "1000036",
+      "Count": 1.0,
+      "Price": 3000.0,
+      "Buy": false,
+      "Name": "Iron Maiden [Exile]"
+    },
+    {
+      "ID": 453962848.0,
+      "ItemID": "1000853",
+      "Count": 1.0,
+      "Price": 3000.0,
+      "Buy": false,
+      "Name": "Iron Maiden"
+    },
+    {
+      "ID": 209875792.0,
+      "ItemID": "1000083",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Blindfold"
+    },
+    {
+      "ID": 539811392.0,
+      "ItemID": "1000084",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Ball Gag"
+    },
+    {
+      "ID": 464125472.0,
+      "ItemID": "1000091",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Wall Shackles [Exile]"
+    },
+    {
+      "ID": 997497472.0,
+      "ItemID": "1000092",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Wall Shackles [Thrall]"
+    },
+    {
+      "ID": 996063104.0,
+      "ItemID": "1000137",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Guillotine [Exile]"
+    },
+    {
+      "ID": 699179072.0,
+      "ItemID": "1000538",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Guillotine [Thrall]"
+    },
+    {
+      "ID": 355815296.0,
+      "ItemID": "1000542",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Guillotine T2 [Thrall]"
+    },
+    {
+      "ID": 415112768.0,
+      "ItemID": "1000543",
+      "Count": 1.0,
+      "Price": 5000.0,
+      "Buy": false,
+      "Name": "Guillotine T2 [Exile]"
+    },
+    {
+      "ID": 398022400.0,
+      "ItemID": "1000147",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Obedience Bench [Exiles]"
+    },
+    {
+      "ID": 205420096.0,
+      "ItemID": "1000210",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Obedience Bench [Thrall]"
+    },
+    {
+      "ID": 448561056.0,
+      "ItemID": "1000194",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Saint Andrew's Cross [Exile]"
+    },
+    {
+      "ID": 194921712.0,
+      "ItemID": "1000211",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Saint Andrew's Cross [Thrall]"
+    },
+    {
+      "ID": 596636800.0,
+      "ItemID": "1000195",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Wooden Pony [Exiles]"
+    },
+    {
+      "ID": 746787904.0,
+      "ItemID": "1000212",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Wooden Pony [Thrall]"
+    },
+    {
+      "ID": 466414400.0,
+      "ItemID": "1000248",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Iron Collar (Attached)"
+    },
+    {
+      "ID": 512802528.0,
+      "ItemID": "1000279",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "The Breeding Wall [Exiles]"
+    },
+    {
+      "ID": 290444640.0,
+      "ItemID": "1000501",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "The Breeding Wall [Thrall]"
+    },
+    {
+      "ID": 199591056.0,
+      "ItemID": "1000298",
+      "Count": 1.0,
+      "Price": 2500.0,
+      "Buy": false,
+      "Name": "Nipple Piercing Spike (Attached)"
+    },
+    {
+      "ID": 52308724.0,
+      "ItemID": "1000337",
+      "Count": 1.0,
+      "Price": 2500.0,
+      "Buy": false,
+      "Name": "Liquid splatter"
+    },
+    {
+      "ID": 260322896.0,
+      "ItemID": "1000349",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Pleasure Hanging Ropes [Exiles]"
+    },
+    {
+      "ID": 710379392.0,
+      "ItemID": "1000500",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Pleasure Hanging Rope [Thrall]"
+    },
+    {
+      "ID": 369182400.0,
+      "ItemID": "1000383",
+      "Count": 1.0,
+      "Price": 2500.0,
+      "Buy": false,
+      "Name": "Lip Septum Piercing (Attached)"
+    },
+    {
+      "ID": 638508288.0,
+      "ItemID": "1000539",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Gallows [Thrall]"
+    },
+    {
+      "ID": 225989568.0,
+      "ItemID": "1000541",
+      "Count": 1.0,
+      "Price": 6900.0,
+      "Buy": false,
+      "Name": "Gallows [Exiles]"
+    }
+  ]
+}

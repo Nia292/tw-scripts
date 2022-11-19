@@ -1,0 +1,48 @@
+{
+  "ID": 400354784.0,
+  "Name": "Witch",
+  "Tags": "",
+  "RequiresTag": false,
+  "Lines": [
+    {
+      "ID": 232159664.0,
+      "ItemID": "18300",
+      "Count": 1.0,
+      "Price": 150.0,
+      "Buy": false,
+      "Name": "Frost Lotus Potion"
+    },
+    {
+      "ID": 640098688.0,
+      "ItemID": "18296",
+      "Count": 1.0,
+      "Price": 150.0,
+      "Buy": false,
+      "Name": "Purple Lotus Potion"
+    },
+    {
+      "ID": 123171568.0,
+      "ItemID": "899196",
+      "Count": 1.0,
+      "Price": 300.0,
+      "Buy": false,
+      "Name": "Vehemence Elixir"
+    },
+    {
+      "ID": 661669952.0,
+      "ItemID": "298454103",
+      "Count": 1.0,
+      "Price": 100.0,
+      "Buy": false,
+      "Name": "Thyri's Tears"
+    },
+    {
+      "ID": 390730464.0,
+      "ItemID": "298454101",
+      "Count": 1.0,
+      "Price": 250.0,
+      "Buy": false,
+      "Name": "Hathors re-focusing potion"
+    }
+  ]
+}

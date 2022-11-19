@@ -1,0 +1,88 @@
+{
+  "ID": 398510688.0,
+  "Name": "Painter",
+  "Tags": "",
+  "RequiresTag": false,
+  "Lines": [
+    {
+      "ID": 820307008.0,
+      "ItemID": "1000072",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Painting I"
+    },
+    {
+      "ID": 373058272.0,
+      "ItemID": "1000154",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Painting II"
+    },
+    {
+      "ID": 885708160.0,
+      "ItemID": "1000155",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Painting III"
+    },
+    {
+      "ID": 923154432.0,
+      "ItemID": "1000156",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Painting IV"
+    },
+    {
+      "ID": 503555424.0,
+      "ItemID": "1000157",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Painting V"
+    },
+    {
+      "ID": 416455552.0,
+      "ItemID": "1000158",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Painting VI"
+    },
+    {
+      "ID": 882778432.0,
+      "ItemID": "1000159",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Painting VII"
+    },
+    {
+      "ID": 687185280.0,
+      "ItemID": "1000160",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Painting VIII"
+    },
+    {
+      "ID": 69551680.0,
+      "ItemID": "1000161",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Painting IX"
+    },
+    {
+      "ID": 440900896.0,
+      "ItemID": "1000319",
+      "Count": 1.0,
+      "Price": 3000.0,
+      "Buy": false,
+      "Name": "Painting Novigrad Port"
+    }
+  ]
+}

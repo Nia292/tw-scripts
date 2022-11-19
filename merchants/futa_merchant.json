@@ -1,0 +1,72 @@
+{
+  "ID": 671642944.0,
+  "Name": "Futa Merchant",
+  "Tags": "",
+  "RequiresTag": false,
+  "Lines": [
+    {
+      "ID": 604087360.0,
+      "ItemID": "1000872",
+      "Count": 1.0,
+      "Price": 2000.0,
+      "Buy": false,
+      "Name": "Flat Chest"
+    },
+    {
+      "ID": 250286016.0,
+      "ItemID": "298454607",
+      "Count": 1.0,
+      "Price": 2000.0,
+      "Buy": false,
+      "Name": "Futa cock flaccid (Accessory)"
+    },
+    {
+      "ID": 159564352.0,
+      "ItemID": "298454609",
+      "Count": 1.0,
+      "Price": 2000.0,
+      "Buy": false,
+      "Name": "Futa cock erect (Accessory)"
+    },
+    {
+      "ID": 622030720.0,
+      "ItemID": "298454275",
+      "Count": 1.0,
+      "Price": 2000.0,
+      "Buy": false,
+      "Name": "Futa cock flaccid"
+    },
+    {
+      "ID": 120828600.0,
+      "ItemID": "298454276",
+      "Count": 1.0,
+      "Price": 2000.0,
+      "Buy": false,
+      "Name": "Futa cock erect"
+    },
+    {
+      "ID": 281766656.0,
+      "ItemID": "298454278",
+      "Count": 1.0,
+      "Price": 2000.0,
+      "Buy": false,
+      "Name": "Futa cock (no balls) erect"
+    },
+    {
+      "ID": 892332352.0,
+      "ItemID": "298454279",
+      "Count": 1.0,
+      "Price": 2000.0,
+      "Buy": false,
+      "Name": "Futa cock (no balls) flaccid"
+    },
+    {
+      "ID": 833335232.0,
+      "ItemID": "298454513",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Erection Item"
+    }
+  ]
+}

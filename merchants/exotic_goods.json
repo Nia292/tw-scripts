@@ -1,0 +1,168 @@
+{
+  "ID": 743952192.0,
+  "Name": "Exotic Goods",
+  "Tags": "",
+  "RequiresTag": false,
+  "Lines": [
+    {
+      "ID": 323308096.0,
+      "ItemID": "16012",
+      "Count": 175.0,
+      "Price": 10000.0,
+      "Buy": false,
+      "Name": "Hardened Brick"
+    },
+    {
+      "ID": 259551120.0,
+      "ItemID": "16003",
+      "Count": 150.0,
+      "Price": 10000.0,
+      "Buy": false,
+      "Name": "Steel Reinforcement"
+    },
+    {
+      "ID": 403107936.0,
+      "ItemID": "16021",
+      "Count": 175.0,
+      "Price": 10000.0,
+      "Buy": false,
+      "Name": "Shaped Wood"
+    },
+    {
+      "ID": 237400384.0,
+      "ItemID": "11108",
+      "Count": 150.0,
+      "Price": 10000.0,
+      "Buy": false,
+      "Name": "Insulated Wood"
+    },
+    {
+      "ID": 721855424.0,
+      "ItemID": "88874358",
+      "Count": 50.0,
+      "Price": 10000.0,
+      "Buy": false,
+      "Name": "Stygian Stone Consolidant"
+    },
+    {
+      "ID": 715214272.0,
+      "ItemID": "-8986",
+      "Count": 1.0,
+      "Price": 60000.0,
+      "Buy": false,
+      "Name": "Easel"
+    },
+    {
+      "ID": 194613472.0,
+      "ItemID": "88874416",
+      "Count": 1.0,
+      "Price": 300000.0,
+      "Buy": false,
+      "Name": "Erik's Knerrir"
+    },
+    {
+      "ID": 255719456.0,
+      "ItemID": "88874417",
+      "Count": 1.0,
+      "Price": 100000.0,
+      "Buy": false,
+      "Name": "Ormen Lange"
+    },
+    {
+      "ID": 557821312.0,
+      "ItemID": "88874419",
+      "Count": 1.0,
+      "Price": 500000.0,
+      "Buy": false,
+      "Name": "Aquilonian Navis actuaria"
+    },
+    {
+      "ID": 261870144.0,
+      "ItemID": "1001029",
+      "Count": 1.0,
+      "Price": 100000.0,
+      "Buy": false,
+      "Name": "Shoulder Pet Snake (Attached)"
+    },
+    {
+      "ID": 270710912.0,
+      "ItemID": "1001068",
+      "Count": 1.0,
+      "Price": 100000.0,
+      "Buy": false,
+      "Name": "Shoulder Pet Set Snake (Attached)"
+    },
+    {
+      "ID": 224488272.0,
+      "ItemID": "1001069",
+      "Count": 1.0,
+      "Price": 100000.0,
+      "Buy": false,
+      "Name": "Shoulder Pet Set Snake (Albino-Attached)"
+    },
+    {
+      "ID": 246181696.0,
+      "ItemID": "1001070",
+      "Count": 1.0,
+      "Price": 100000.0,
+      "Buy": false,
+      "Name": "Shoulder Pet Set Snake (Black-Attached)"
+    },
+    {
+      "ID": 597667968.0,
+      "ItemID": "1001071",
+      "Count": 1.0,
+      "Price": 100000.0,
+      "Buy": false,
+      "Name": "Shoulder Pet Set Snake (Red-Attached)"
+    },
+    {
+      "ID": 782238016.0,
+      "ItemID": "1001072",
+      "Count": 1.0,
+      "Price": 100000.0,
+      "Buy": false,
+      "Name": "Shoulder Pet Set Snake (White-Attached)"
+    },
+    {
+      "ID": 203128848.0,
+      "ItemID": "1001025",
+      "Count": 1.0,
+      "Price": 100000.0,
+      "Buy": false,
+      "Name": "Head Pet Baby Turtle (Attached)"
+    },
+    {
+      "ID": 634181504.0,
+      "ItemID": "1001026",
+      "Count": 1.0,
+      "Price": 100000.0,
+      "Buy": false,
+      "Name": "Shoulder Pet Baby Turtle (Attached)"
+    },
+    {
+      "ID": 340946464.0,
+      "ItemID": "1000743",
+      "Count": 1.0,
+      "Price": 100000.0,
+      "Buy": false,
+      "Name": "Shoulder Pet Raven (Attached)"
+    },
+    {
+      "ID": 366789504.0,
+      "ItemID": "1000164",
+      "Count": 1.0,
+      "Price": 50000.0,
+      "Buy": false,
+      "Name": "Black Pussy Cat [Deco]"
+    },
+    {
+      "ID": 111070448.0,
+      "ItemID": "1000823",
+      "Count": 1.0,
+      "Price": 50000.0,
+      "Buy": false,
+      "Name": "Raven [Deco]"
+    }
+  ]
+}

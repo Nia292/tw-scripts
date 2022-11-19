@@ -1,0 +1,32 @@
+{
+  "ID": 104893976.0,
+  "Name": "Shady Trader",
+  "Tags": "",
+  "RequiresTag": false,
+  "Lines": [
+    {
+      "ID": 368670432.0,
+      "ItemID": "53201",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Reaper Poison"
+    },
+    {
+      "ID": 173899104.0,
+      "ItemID": "53203",
+      "Count": 1.0,
+      "Price": 700.0,
+      "Buy": false,
+      "Name": "Scorpion Queen Poison"
+    },
+    {
+      "ID": 612882688.0,
+      "ItemID": "18291",
+      "Count": 1.0,
+      "Price": 1000.0,
+      "Buy": false,
+      "Name": "Black Lotus Potion"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "ID": 406568832.0,
+  "Name": "Armorer",
+  "Tags": "",
+  "RequiresTag": false,
+  "Lines": [
+    {
+      "ID": 866584960.0,
+      "ItemID": "95075",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Durable Light Turban"
+    },
+    {
+      "ID": 253345264.0,
+      "ItemID": "95076",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Durable Light Chestpiece"
+    },
+    {
+      "ID": 330673568.0,
+      "ItemID": "95077",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Durable Light Gauntlets"
+    },
+    {
+      "ID": 805945664.0,
+      "ItemID": "95078",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Durable Light Wrap"
+    },
+    {
+      "ID": 458047936.0,
+      "ItemID": "95079",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Durable Light Boots"
+    },
+    {
+      "ID": 879847488.0,
+      "ItemID": "95105",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Durable Medium Cap"
+    },
+    {
+      "ID": 353543168.0,
+      "ItemID": "95106",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Durable Medium Harness"
+    },
+    {
+      "ID": 207895808.0,
+      "ItemID": "95107",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Durable Medium Gauntlets"
+    },
+    {
+      "ID": 142814880.0,
+      "ItemID": "95108",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Durable Medium Tasset"
+    },
+    {
+      "ID": 676519936.0,
+      "ItemID": "95109",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Durable Medium Boots"
+    },
+    {
+      "ID": 130554552.0,
+      "ItemID": "95045",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Durable Heavy Helmet"
+    },
+    {
+      "ID": 297626080.0,
+      "ItemID": "95046",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Durable Heavy Pauldron"
+    },
+    {
+      "ID": 714823168.0,
+      "ItemID": "95047",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Durable Heavy Gauntlets"
+    },
+    {
+      "ID": 190447328.0,
+      "ItemID": "95048",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Durable Heavy Tasset"
+    },
+    {
+      "ID": 514687296.0,
+      "ItemID": "95049",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Durable Heavy Sabatons"
+    }
+  ]
+}

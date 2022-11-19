@@ -1,0 +1,176 @@
+{
+  "ID": 422070976.0,
+  "Name": "Lucy - Merchant Unlocked after Quest",
+  "Tags": "",
+  "RequiresTag": false,
+  "Lines": [
+    {
+      "ID": 578417280.0,
+      "ItemID": "298454217",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Slave Master's Keys"
+    },
+    {
+      "ID": 955931264.0,
+      "ItemID": "298454495",
+      "Count": 1.0,
+      "Price": 1500.0,
+      "Buy": false,
+      "Name": "Lock picking tools"
+    },
+    {
+      "ID": 148440448.0,
+      "ItemID": "51006",
+      "Count": 1.0,
+      "Price": 1200.0,
+      "Buy": false,
+      "Name": "Eldarium Cleaver"
+    },
+    {
+      "ID": 379684992.0,
+      "ItemID": "51007",
+      "Count": 1.0,
+      "Price": 1200.0,
+      "Buy": false,
+      "Name": "Eldarium Pick-axe"
+    },
+    {
+      "ID": 675294848.0,
+      "ItemID": "51008",
+      "Count": 1.0,
+      "Price": 1200.0,
+      "Buy": false,
+      "Name": "Eldarium Sickle"
+    },
+    {
+      "ID": 757056320.0,
+      "ItemID": "51010",
+      "Count": 1.0,
+      "Price": 1200.0,
+      "Buy": false,
+      "Name": "Eldarium Hatchet"
+    },
+    {
+      "ID": 630219904.0,
+      "ItemID": "51009",
+      "Count": 1.0,
+      "Price": 1200.0,
+      "Buy": false,
+      "Name": "Eldarium Pick"
+    },
+    {
+      "ID": 823788480.0,
+      "ItemID": "1000032",
+      "Count": 1.0,
+      "Price": 4500.0,
+      "Buy": false,
+      "Name": "Pillory Of Pleasure [Exiles]"
+    },
+    {
+      "ID": 226454672.0,
+      "ItemID": "1000499",
+      "Count": 1.0,
+      "Price": 4500.0,
+      "Buy": false,
+      "Name": "Pillory Of Pleasure [Thrall]"
+    },
+    {
+      "ID": 287052448.0,
+      "ItemID": "1000298",
+      "Count": 1.0,
+      "Price": 1800.0,
+      "Buy": false,
+      "Name": "Nipple Piercing Spike (Attached)"
+    },
+    {
+      "ID": 596375360.0,
+      "ItemID": "1563",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Devolved Bat Insignia"
+    },
+    {
+      "ID": 728718592.0,
+      "ItemID": "1564",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Devolved Bird Insignia"
+    },
+    {
+      "ID": 335886784.0,
+      "ItemID": "1565",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Devolved Demon-Spider Insignia"
+    },
+    {
+      "ID": 509837152.0,
+      "ItemID": "1566",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Devolved Drowned Insignia"
+    },
+    {
+      "ID": 496090016.0,
+      "ItemID": "1568",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Devolved Goblin Insignia"
+    },
+    {
+      "ID": 798446592.0,
+      "ItemID": "1569",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Devolved Harpy Insignia"
+    },
+    {
+      "ID": 808338368.0,
+      "ItemID": "1570",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Devolved Serpent-man Insignia"
+    },
+    {
+      "ID": 850856576.0,
+      "ItemID": "1571",
+      "Count": 1.0,
+      "Price": 500.0,
+      "Buy": false,
+      "Name": "Devolved Wolf-man Insignia"
+    },
+    {
+      "ID": 602404864.0,
+      "ItemID": "298454334",
+      "Count": 1.0,
+      "Price": 5.0,
+      "Buy": false,
+      "Name": "Infiltrator Note"
+    },
+    {
+      "ID": 126041440.0,
+      "ItemID": "298454268",
+      "Count": 1.0,
+      "Price": 30.0,
+      "Buy": false,
+      "Name": "Infiltrator Campfire"
+    },
+    {
+      "ID": 713278592.0,
+      "ItemID": "298454620",
+      "Count": 1.0,
+      "Price": 100.0,
+      "Buy": false,
+      "Name": "Infiliatrator Box"
+    }
+  ]
+}
