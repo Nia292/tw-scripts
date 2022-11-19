@@ -1,0 +1,20 @@
+{"ScriptId":512680416.0,"Name":"Transfer","Parts":[{"PartId":373119296.0,"StepType":0.0,"A":"Hello, Exile.
+This is the path to the Savage Wilds. Before you go on, be aware that some gear might not survive the travelling.
+
+Be sure to not bring any Ravencrest notes or books written on! as the ink will not survive the transfer and be lost to the void! 
+
+Once you have passed though, be patient until you have fully manifested.
+
+(At first transfer, you'll get into character creation. Go over it and then relog to *Savage Wilds server*, if it does not reload automatically. If you end up naked after transfer, try to relog - on fail open a support ticket on discord)
+
+(Thralls, pets and horses won't follow!)
+
+(DLC items, when you don't own the DLC and any battlepass or challenge items may get lost!!)
+
+(Written notes and journals from Ravencrest may get deleted!!!)
+
+(Selected traits from attribute tree will be inactive until relog or death on the other side)
+
+(Currently you may have to resize, if you do not get warped!)
+
+","B":"Ok.","C":"I'll rethink it first.","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":375927008.0,"StepType":5.0,"A":"","B":"","C":"","V":734733120.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}}]}
