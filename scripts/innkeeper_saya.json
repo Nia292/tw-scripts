@@ -1,0 +1,19 @@
+{"ScriptId":835688384.0,"Name":"Inkeeper","Parts":[{"PartId":835505216.0,"StepType":15.0,"A":"Greetings, Exile!
+
+  Did you hear about the new merchant in town? I have heard he is quite the charmer. Oh, what I would give <...she goes on and on about the new merchant...>
+
+  You wanted something? Well then, out with it!","B":"Food and Drinks;A room;What about Lasho?","C":"Cancel","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":558427712.0,"StepType":10.0,"A":"","B":"5||>0","C":"Food and Drinks","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":547410496.0,"StepType":27.0,"A":"","B":"","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":575579136.0,"StepType":14.0,"A":"","B":"5||>0","C":"What about Lasho?","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":624866496.0,"StepType":0.0,"A":"Lasho? A great businessman! His rise to power is quite exciting. He told me the story a few moments after he bought me! You want to hear about it? Oh yes, surely, you would want to hear about it!
+
+  He came to these parts a long time ago, to seek fortune. Him and his personal slave Lillain. Sometimes...sometimes I envy her. The way Lasho looks at her. Don't we all to wish to be admired like that? Perhaps...perhaps one day...","B":"Lasho! His Fortune! Please continue!","C":"Nevermind...","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":166356400.0,"StepType":0.0,"A":"Oh! Right!
+
+  What he told me is that, through a bad business deal, he had acquired quite too many \"Immersive Construction Equipment- and Armordisplays\". Low quality, self assembly racks to display ones attire. It seems he had found a good market for it somewhere here. Sold all of them at colossol markup. Ingenious, is he not?
+
+  He then branched out to sell weak animals to new owners. Those that were sick. Those that no one wanted, not even as food. And he sold those, too.
+
+  He also told me he got people to invest in his business - without ever paying them back. I...whenever I think about it, I am about to faint. Surely, you know why!","B":"Of course I know! Lasho is a great man!","C":"...","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":501144480.0,"StepType":11.0,"A":"","B":"","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":888393792.0,"StepType":0.0,"A":"An inn room! Well certainly! You can have an inn room. Provided we have space...and you are willing to pay the price!
+
+  Let me tell you about our inn rooms. We have quite a few, here at Mitra's Shame! They come in various sizes, and if you decide to stay a little longer, you may also put down some furniture of your own. Naturally, that will then belong to us...surely, that is not a dealbreaker?
+
+  Do take a look around, see if any of the rooms suit your liking. Those without a sign are free!
+
+  ((Please open a ticket on discord to get your inn room!))","B":"Thank you!","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":866328960.0,"StepType":12.0,"A":"","B":"","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}}]}

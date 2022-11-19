@@ -1,0 +1,8 @@
+{"ScriptId":114780112.0,"Name":"Tersina - Derketo Quests","Parts":[{"PartId":975371520.0,"StepType":2.0,"A":"I can see, you received Derketo's Love. Talk to Lola, at the Pagoda of boundless lust, if you seek more knowledge.","B":"Derketo Embrace","C":"Ok","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":428327296.0,"StepType":0.0,"A":"Greetings sir, I am Tersina Acolyte of Derketo. Have you come to embrace Derketo as your true Lord and Master.","B":"Yes, I wish to follow Derketo","C":"Derk..what? No..I got better to do.","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":394573792.0,"StepType":0.0,"A":"Go out and seek Natala the Chosen. She will guide you to his embrace. To find her, solve the following riddle:
+
+  Look to the well without waters free
+  In the land harsh without glee
+  Take not the leap of faith, devotee
+  but look to the sky and come to me
+  ","B":"Well? Waters? Glee? Uh..I'll find that somehow.","C":"A riddle? That's one too much for me.","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":872646272.0,"StepType":1.0,"A":"Derketo Embrace","B":"","C":"","V":1.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":350596640.0,"StepType":0.0,"A":"Good! If you seek more of our cult, go to the Pagoda of Boundless Lust.
+  There is one acolythe, who might have tasks for you!","B":"Pagoda. Fine.","C":"Boundless Lust?? No way!","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}}]}

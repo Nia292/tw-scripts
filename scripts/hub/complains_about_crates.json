@@ -1,0 +1,3 @@
+{"ScriptId":379589216.0,"Name":"Complains About Crates","Parts":[{"PartId":782280960.0,"StepType":0.0,"A":"Oi! You 'ere!
+
+  Y'know anythin' 'bout those crates 'ere? S'mn just d'mped 'em rite 'ere without thinkin'! Bloody 'ell! 'Ain't m'vin 'em out of the way m'self! Nay! Wait 'till ol Lasho hears about this...","B":"I don't know anything about those crates.","C":"<Walk Away>","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":577959552.0,"StepType":0.0,"A":"Well ya better dun't!","B":"...","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":452253792.0,"StepType":22.0,"A":"","B":"","C":"","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}}]}

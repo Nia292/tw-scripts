@@ -1,0 +1,10 @@
+{"ScriptId":54963836.0,"Name":"Irena - Logpage 3","Parts":[{"PartId":337443168.0,"StepType":2.0,"A":"\"I've not studied your page yet. Come back tomorrow.\"","B":"Logpage3","C":"Ok","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":594347968.0,"StepType":0.0,"A":"Hello friend I am Irena, friend of Erik the Red and explorer.
+
+  You must be so cold comming all the way up here...
+
+  What can I do for you, friend?","B":"I have this map here that brought me to this place, but I do not know why.","C":"Just wanted to warm up a bit.","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":937131904.0,"StepType":6.0,"A":"What map? Is this some sort of joke?","B":"","C":"Oh, crud. It seems I left it back home... I will be back at another date.","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":977294208.0,"StepType":0.0,"A":"Aha!
+
+  Now, this is not just a map. This is one of my friend Erik's lost logpages.
+  Hm. Let me give you a little reward. This will be a good read, for sure!
+
+  Report back to Erik. He recently rambled about relics and that he needs to gather some. Might be work for you.","B":"Next","C":"Cancel","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":770043008.0,"StepType":4.0,"A":"","B":"","C":"","V":185369424.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":834986432.0,"StepType":13.0,"A":"Relics","B":"0","C":"1","V":1.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":559678976.0,"StepType":3.0,"A":"Logpage3","B":"","C":"","V":86400.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}},{"PartId":686147648.0,"StepType":0.0,"A":"\"Just ring that gong, if you wish to get out. But be careful..it might madden the mammoths..\"","B":"Gong..alright.","C":"I just stay here.","V":0.0,"N":"","Condition":{"Key":"None","Operator":1.0,"Value":0.0}}]}
